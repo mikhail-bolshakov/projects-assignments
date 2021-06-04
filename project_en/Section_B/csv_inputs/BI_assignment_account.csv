@@ -1,0 +1,1800 @@
+﻿id_account,id_person,account_type
+1,9264,Trial
+2,7743,Trial
+3,11791,Trial
+4,8078,Trial
+5,5528,Trial
+6,13223,Trial
+7,10892,Trial
+8,1572,Trial
+9,7435,Trial
+10,13632,Trial
+11,3231,Trial
+12,10675,Trial
+13,5017,Trial
+14,7053,Trial
+15,13071,Trial
+16,7381,Trial
+17,6100,Trial
+18,2525,Trial
+19,10827,Trial
+20,4521,Trial
+21,14184,Trial
+22,5885,Trial
+23,5863,Trial
+24,2230,Basic
+25,11942,Basic
+26,9455,Basic
+27,4681,Basic
+28,11885,Basic
+29,12984,Basic
+30,4899,Basic
+31,12734,Basic
+32,10463,Basic
+33,3074,Basic
+34,13458,Basic
+35,2112,Basic
+36,3499,Basic
+37,7578,Basic
+38,14961,Basic
+39,14317,Basic
+40,9962,Basic
+41,14485,Basic
+42,9700,Basic
+43,14822,Basic
+44,2322,Basic
+45,1538,Basic
+46,10969,Basic
+47,14814,Basic
+48,7720,Basic
+49,10227,Basic
+50,8678,Basic
+51,5253,Basic
+52,11704,Basic
+53,655,Basic
+54,3108,Basic
+55,6789,Basic
+56,7240,Basic
+57,13933,Basic
+58,8608,Basic
+59,13533,Basic
+60,10337,Basic
+61,1874,Basic
+62,13928,Basic
+63,3767,Basic
+64,6982,Basic
+65,12812,Basic
+66,7837,Basic
+67,7708,Basic
+68,7537,Basic
+69,4664,Basic
+70,398,Basic
+71,11921,Basic
+72,14607,Basic
+73,13309,Basic
+74,14018,Basic
+75,682,Basic
+76,9151,Basic
+77,14002,Basic
+78,4232,Basic
+79,2476,Basic
+80,11578,Basic
+81,10195,Basic
+82,9658,Business
+83,5024,Business
+84,503,Business
+85,8535,Business
+86,4736,Business
+87,9457,Business
+88,859,Business
+89,3469,Business
+90,7169,Business
+91,3947,Business
+92,13580,Business
+93,11398,Business
+94,1202,Business
+95,11199,Business
+96,8366,Business
+97,9878,Business
+98,478,Business
+99,4372,Business
+100,7787,Business
+101,2460,Business
+102,12212,Business
+103,3319,Business
+104,12234,Business
+105,10199,Business
+106,9799,Business
+107,13022,Business
+108,10347,Business
+109,2970,Business
+110,2429,Business
+111,7633,Business
+112,12797,Business
+113,5613,Business
+114,5788,Business
+115,2052,Business
+116,14433,Business
+117,4679,Business
+118,9941,Business
+119,13668,Business
+120,13611,Business
+121,961,Business
+122,5977,Business
+123,4968,Business
+124,7844,Business
+125,8948,Business
+126,5190,Business
+127,698,Business
+128,5227,Business
+129,14573,Business
+130,12385,Business
+131,5171,Business
+132,6892,Business
+133,9639,Business
+134,2213,Business
+135,12067,Business
+136,5084,Business
+137,8156,Business
+138,575,Business
+139,8039,Business
+140,4962,Business
+141,4841,Business
+142,8996,Business
+143,11876,Business
+144,5247,Business
+145,10251,Business
+146,6261,Business
+147,4106,Business
+148,5046,Business
+149,5904,Business
+150,5962,Business
+151,4984,Business
+152,7193,Business
+153,13446,Business
+154,3306,Business
+155,8903,Business
+156,7539,Business
+157,10458,Business Premium
+158,11410,Business Premium
+159,14337,Business Premium
+160,4140,Business Premium
+161,2334,Business Premium
+162,8122,Business Premium
+163,1788,Business Premium
+164,8342,Business Premium
+165,8411,Business Premium
+166,13274,Business Premium
+167,5772,Business Premium
+168,1741,Business Premium
+169,2154,Business Premium
+170,5442,Business Premium
+171,14555,Business Premium
+172,10300,Business Premium
+173,7863,Business Premium
+174,11734,Business Premium
+175,12194,Business Premium
+176,8838,Business Premium
+177,6662,Business Premium
+178,12483,Business Premium
+179,11757,Business Premium
+180,10806,Business Premium
+181,592,Business Premium
+182,14595,Business Premium
+183,719,Business Premium
+184,1560,Business Premium
+185,14121,Business Premium
+186,4008,Business Premium
+187,6897,Business Premium
+188,8990,Business Premium
+189,1133,Business Premium
+190,14085,Business Premium
+191,6565,Business Premium
+192,12662,Business Premium
+193,3639,Business Premium
+194,2841,Business Premium
+195,11082,Business Premium
+196,410,Business Premium
+197,6576,Business Premium
+198,12520,Business Premium
+199,10411,Business Premium
+200,6424,Business Premium
+201,11300,Business Premium
+202,14522,Business Premium
+203,7918,Business Premium
+204,193,Business Premium
+205,13354,Business Premium
+206,13914,Business Premium
+207,10942,Business Premium
+208,3220,Business Premium
+209,11902,Business Premium
+210,6312,Business Premium
+211,13410,Business Premium
+212,3824,Business Premium
+213,2659,Business Premium
+214,7769,Business Premium
+215,7879,Business Premium
+216,11479,Business Premium
+217,6978,Business Premium
+218,11396,Business Premium
+219,7583,Business Premium
+220,3437,Business Premium
+221,14996,Business Premium
+222,13709,Business Premium
+223,8246,Business Premium
+224,11067,Business Premium
+225,180,Business Premium
+226,14560,Business Premium
+227,6814,Business Premium
+228,13435,Business Premium
+229,345,Business Premium
+230,5382,Business Premium
+231,6698,Business Premium
+232,10763,Business Premium
+233,5675,Business Premium
+234,7545,Business Premium
+235,9431,Business Premium
+236,9710,Business Premium
+237,4297,Business Premium
+238,8545,Business Premium
+239,14567,Business Premium
+240,2531,Business Premium
+241,1983,Business Premium
+242,4701,Business Premium
+243,9352,Business Premium
+244,5055,Business Premium
+245,12886,Business Premium
+246,10159,Business Premium
+247,4997,Business Premium
+248,4875,Business Premium
+249,4648,Business Premium
+250,4867,Business Premium
+251,1930,Business Premium
+252,2651,Business Premium
+253,12496,Business Premium
+254,2694,Business Premium
+255,969,Business Premium
+256,10372,Business Premium
+257,6723,Business Premium
+258,13927,Business Premium
+259,1788,Business Premium
+260,6225,Business Premium
+261,530,Business Premium
+262,13673,Business Premium
+263,4935,Business Premium
+264,3847,Business Premium
+265,1929,Business Premium
+266,13197,Business Premium
+267,11805,Business Premium
+268,4025,Business Premium
+269,4576,Business Premium
+270,9711,Business Premium
+271,7309,Business Premium
+272,9461,Business Premium
+273,13729,Business Premium
+274,14285,Business Premium
+275,7404,Business Premium
+276,11760,Business Premium
+277,12584,Business Premium
+278,3397,Business Premium
+279,5115,Business Premium
+280,8260,Business Premium
+281,6188,Business Premium
+282,3270,Business Premium
+283,14005,Business Premium
+284,4057,Business Premium
+285,7263,Business Premium
+286,12092,Business Premium
+287,11729,Business Premium
+288,14670,Business Premium
+289,13643,Business Premium
+290,7970,Business Premium
+291,592,Business Premium
+292,10928,Business Premium
+293,1773,Business Premium
+294,10691,Business Premium
+295,5884,Business Premium
+296,7412,Business Premium
+297,1873,Business Premium
+298,4576,Business Premium
+299,10311,Business Premium
+300,3957,Business Premium
+301,5962,Business Premium
+302,14380,Business Premium
+303,4160,Business Premium
+304,1378,Business Premium
+305,2548,Business Premium
+306,8545,Business Premium
+307,13302,Business Premium
+308,4946,Business Premium
+309,13355,Business Premium
+310,13185,Business Premium
+311,14368,Business Premium
+312,4036,Business Premium
+313,7553,Business Premium
+314,11055,Business Premium
+315,3240,Business Premium
+316,9569,Business Premium
+317,13360,Business Premium
+318,301,Business Premium
+319,10815,Business Premium
+320,2155,Business Premium
+321,1043,Business Premium
+322,2816,Business Premium
+323,7346,Business Premium
+324,6580,Business Premium
+325,10228,Business Premium
+326,9939,Business Premium
+327,4138,Business Premium
+328,10326,Business Premium
+329,5066,Business Premium
+330,14211,Business Premium
+331,2333,Business Premium
+332,10709,Business Premium
+333,13872,Business Premium
+334,4662,Business Premium
+335,10334,Business Premium
+336,11087,Business Premium
+337,8170,Business Premium
+338,6985,Business Premium
+339,3832,Business Premium
+340,13127,Business Premium
+341,11765,Business Premium
+342,3966,Business Premium
+343,11945,Business Premium
+344,2022,Business Premium
+345,5240,Business Premium
+346,5721,Business Premium
+347,14819,Business Premium
+348,4880,Business Premium
+349,13638,Business Premium
+350,13085,Business Premium
+351,13293,Business Premium
+352,9349,Business Premium
+353,11601,Business Premium
+354,9072,Business Premium
+355,12301,Business Premium
+356,9281,Business Premium
+357,4440,Business Premium
+358,7993,Business Premium
+359,11518,Business Premium
+360,4950,Business Premium
+361,4042,Business Premium
+362,13829,Business Premium
+363,4156,Business Premium
+364,6442,Business Premium
+365,14038,Business Premium
+366,2699,Business Premium
+367,4601,Business Premium
+368,4383,Business Premium
+369,12877,Business Premium
+370,11893,Business Premium
+371,14684,Business Premium
+372,14485,Business Premium
+373,14982,Business Premium
+374,14809,Business Premium
+375,5949,Business Premium
+376,55,Business Premium
+377,546,Business Premium
+378,3529,Business Premium
+379,14375,Business Premium
+380,8349,Business Premium
+381,861,Business Premium
+382,11684,Business Premium
+383,3406,Business Premium
+384,11186,Business Premium
+385,938,Business Premium
+386,1444,Business Premium
+387,10874,Business Premium
+388,2814,Business Premium
+389,4242,Business Premium
+390,12893,Business Premium
+391,7839,Business Premium
+392,303,Business Premium
+393,5526,Business Premium
+394,6943,Business Premium
+395,11545,Business Premium
+396,892,Business Premium
+397,9113,Business Premium
+398,14080,Business Premium
+399,3927,Business Premium
+400,8862,Business Premium
+401,6357,Business Premium
+402,13202,Business Premium
+403,7537,Business Premium
+404,11485,Business Premium
+405,874,Business Premium
+406,4153,Business Premium
+407,7473,Business Premium
+408,338,Business Premium
+409,6605,Business Premium
+410,12529,Business Premium
+411,5334,Business Premium
+412,10216,Business Premium
+413,4737,Business Premium
+414,12271,Business Premium
+415,2266,Business Premium
+416,13334,Business Premium
+417,14396,Business Premium
+418,278,Business Premium
+419,11560,Business Premium
+420,10859,Business Premium
+421,6635,Business Premium
+422,11316,Business Premium
+423,10647,Business Premium
+424,168,Business Premium
+425,2585,Business Premium
+426,9039,Business Premium
+427,7808,Business Premium
+428,5939,Business Premium
+429,1185,Business Premium
+430,13292,Business Premium
+431,9168,Business Premium
+432,3875,Business Premium
+433,8069,Business Premium
+434,7403,Business Premium
+435,3585,Business Premium
+436,12280,Business Premium
+437,11322,Business Premium
+438,3981,Business Premium
+439,12589,Business Premium
+440,4762,Business Premium
+441,9613,Business Premium
+442,10094,Business Premium
+443,13472,Business Premium
+444,13816,Business Premium
+445,6771,Business Premium
+446,8117,Business Premium
+447,8233,Business Premium
+448,86,Business Premium
+449,1682,Business Premium
+450,9786,Business Premium
+451,4810,Business Premium
+452,7780,Business Premium
+453,7938,Business Premium
+454,6574,Business Premium
+455,7630,Business Premium
+456,11792,Business Premium
+457,6239,Business Premium
+458,3226,Business Premium
+459,12509,Business Premium
+460,5058,Business Premium
+461,11855,Business Premium
+462,696,Business Premium
+463,9778,Business Premium
+464,4378,Business Premium
+465,14322,Business Premium
+466,13954,Business Premium
+467,6639,Business Premium
+468,8475,Business Premium
+469,3193,Business Premium
+470,11576,Business Premium
+471,8830,Business Premium
+472,6817,Business Premium
+473,69,Business Premium
+474,10355,Business Premium
+475,4422,Business Premium
+476,14633,Business Premium
+477,454,Business Premium
+478,2927,Business Premium
+479,10899,Business Premium
+480,7672,Business Premium
+481,11705,Business Premium
+482,5133,Business Premium
+483,3611,Business Premium
+484,7584,Business Premium
+485,37,Business Premium
+486,14771,Business Premium
+487,8494,Business Premium
+488,14744,Business Premium
+489,8364,Business Premium
+490,11643,Business Premium
+491,4518,Business Premium
+492,2822,Business Premium
+493,7990,Business Premium
+494,12459,Business Premium
+495,11634,Business Premium
+496,13638,Business Premium
+497,13621,Business Premium
+498,10374,Business Premium
+499,7374,Business Premium
+500,13212,Business Premium
+501,5440,Business Premium
+502,10809,Business Premium
+503,412,Business Premium
+504,4627,Business Premium
+505,7647,Business Premium
+506,5824,Business Premium
+507,383,Business Premium
+508,13603,Business Premium
+509,3526,Business Premium
+510,12288,Business Premium
+511,9614,Business Premium
+512,2589,Business Premium
+513,11786,Business Premium
+514,11051,Business Premium
+515,11142,Business Premium
+516,12,Business Premium
+517,5222,Business Premium
+518,14056,Business Premium
+519,5013,Business Premium
+520,13458,Business Premium
+521,14417,Business Premium
+522,1478,Business Premium
+523,4879,Business Premium
+524,4055,Business Premium
+525,12517,Business Premium
+526,9298,Business Premium
+527,10466,Business Premium
+528,2070,Business Premium
+529,10150,Business Premium
+530,14371,Business Premium
+531,4963,Business Premium
+532,13752,Business Premium
+533,4767,Business Premium
+534,4656,Business Premium
+535,1355,Business Premium
+536,4272,Business Premium
+537,6311,Business Premium
+538,6777,Business Premium
+539,701,Business Premium
+540,13726,Business Premium
+541,8506,Business Premium
+542,8845,Business Premium
+543,11183,Business Premium
+544,8261,Business Premium
+545,1183,Business Premium
+546,10345,Business Premium
+547,3226,Business Premium
+548,5948,Business Premium
+549,3513,Business Premium
+550,13609,Business Premium
+551,13500,Business Premium
+552,3915,Business Premium
+553,2148,Business Premium
+554,11307,Business Premium
+555,1302,Business Premium
+556,13387,Business Premium
+557,4357,Business Premium
+558,503,Business Premium
+559,5639,Business Premium
+560,13727,Business Premium
+561,1266,Business Premium
+562,8610,Business Premium
+563,11676,Business Premium
+564,6303,Business Premium
+565,5684,Business Premium
+566,9286,Business Premium
+567,11571,Business Premium
+568,8449,Business Premium
+569,4755,Business Premium
+570,6015,Business Premium
+571,4515,Business Premium
+572,7153,Business Premium
+573,10640,Business Premium
+574,13438,Business Premium
+575,7933,Business Premium
+576,12062,Business Premium
+577,6488,Business Premium
+578,3090,Business Premium
+579,8036,Business Premium
+580,7445,Business Premium
+581,12927,Business Premium
+582,2587,Business Premium
+583,1787,Business Premium
+584,2643,Business Premium
+585,12694,Business Premium
+586,13472,Business Premium
+587,4366,Business Premium
+588,10021,Business Premium
+589,3694,Business Premium
+590,1426,Business Premium
+591,2763,Business Premium
+592,6901,Business Premium
+593,4711,Business Premium
+594,13846,Business Premium
+595,7952,Business Premium
+596,1993,Business Premium
+597,14907,Business Premium
+598,9185,Business Premium
+599,14053,Business Premium
+600,6319,Business Premium
+601,11680,Business Premium
+602,10746,Business Premium
+603,5249,Business Premium
+604,8718,Business Premium
+605,7076,Business Premium
+606,3089,Business Premium
+607,11472,Business Premium
+608,633,Business Premium
+609,7926,Business Premium
+610,7445,Business Premium
+611,9650,Business Premium
+612,3276,Business Premium
+613,2103,Business Premium
+614,8164,Business Premium
+615,12062,Business Premium
+616,10493,Business Premium
+617,430,Business Premium
+618,13124,Business Premium
+619,9837,Business Premium
+620,2228,Business Premium
+621,10161,Business Premium
+622,12986,Business Premium
+623,9438,Business Premium
+624,7587,Business Premium
+625,4612,Business Premium
+626,1766,Business Premium
+627,8545,Business Premium
+628,9320,Business Premium
+629,8838,Business Premium
+630,112,Business Premium
+631,1660,Business Premium
+632,6394,Business Premium
+633,2811,Business Premium
+634,2638,Business Premium
+635,7175,Business Premium
+636,11875,Business Premium
+637,2369,Business Premium
+638,8377,Business Premium
+639,10709,Business Premium
+640,963,Business Premium
+641,859,Business Premium
+642,8282,Business Premium
+643,8967,Business Premium
+644,3500,Business Premium
+645,8770,Business Premium
+646,6497,Business Premium
+647,11381,Business Premium
+648,3168,Business Premium
+649,2204,Business Premium
+650,4047,Business Premium
+651,8750,Business Premium
+652,14135,Business Premium
+653,7103,Business Premium
+654,2525,Business Premium
+655,13459,Business Premium
+656,13286,Business Premium
+657,7518,Business Premium
+658,14843,Business Premium
+659,9738,Business Premium
+660,4570,Business Premium
+661,7401,Business Premium
+662,2435,Business Premium
+663,4625,Business Premium
+664,770,Business Premium
+665,5474,Business Premium
+666,3890,Business Premium
+667,4368,Business Premium
+668,8416,Business Premium
+669,7497,Business Premium
+670,8400,Business Premium
+671,14557,Business Premium
+672,13767,Business Premium
+673,12997,Business Premium
+674,7533,Business Premium
+675,2789,Business Premium
+676,1891,Business Premium
+677,7988,Business Premium
+678,10595,Business Premium
+679,4546,Business Premium
+680,13804,Business Premium
+681,8042,Business Premium
+682,3253,Business Premium
+683,7570,Business Premium
+684,9927,Business Premium
+685,13323,Business Premium
+686,3084,Business Premium
+687,488,Business Premium
+688,14125,Business Premium
+689,7002,Business Premium
+690,1478,Business Premium
+691,878,Business Premium
+692,13077,Business Premium
+693,11830,Business Premium
+694,3489,Business Premium
+695,13040,Business Premium
+696,2200,Business Premium
+697,1807,Business Premium
+698,9630,Business Premium
+699,8958,Business Premium
+700,4989,Business Premium
+701,8305,Business Premium
+702,14719,Business Premium
+703,2443,Business Premium
+704,5493,Business Premium
+705,9902,Business Premium
+706,5211,Business Premium
+707,12997,Business Premium
+708,1971,Business Premium
+709,13415,Business Premium
+710,13267,Business Premium
+711,803,Business Premium
+712,5579,Business Premium
+713,5636,Business Premium
+714,5565,Business Premium
+715,6740,Business Premium
+716,14887,Business Premium
+717,9357,Business Premium
+718,12432,Business Premium
+719,8446,Business Premium
+720,5720,Business Premium
+721,10239,Business Premium
+722,663,Business Premium
+723,9016,Business Premium
+724,9429,Business Premium
+725,3775,Business Premium
+726,6972,Business Premium
+727,12318,Business Premium
+728,3388,Business Premium
+729,14340,Business Premium
+730,14343,Business Premium
+731,11772,Business Premium
+732,12442,Business Premium
+733,2031,Business Premium
+734,13638,Business Premium
+735,1160,Business Premium
+736,11638,Business Premium
+737,6904,Business Premium
+738,5487,Business Premium
+739,4514,Business Premium
+740,14600,Business Premium
+741,2542,Business Premium
+742,12261,Business Premium
+743,12489,Business Premium
+744,11987,Business Premium
+745,7679,Business Premium
+746,5810,Business Premium
+747,7354,Business Premium
+748,11605,Business Premium
+749,9374,Business Premium
+750,13440,Business Premium
+751,864,Business Premium
+752,2443,Business Premium
+753,411,Business Premium
+754,6965,Business Premium
+755,7632,Business Premium
+756,638,Business Premium
+757,8053,Business Premium
+758,13735,Business Premium
+759,4486,Business Premium
+760,9823,Business Premium
+761,8931,Business Premium
+762,7950,Business Premium
+763,1275,Business Premium
+764,12329,Business Premium
+765,2313,Business Premium
+766,6967,Business Premium
+767,12707,Business Premium
+768,3499,Business Premium
+769,12335,Business Premium
+770,11814,Business Premium
+771,10669,Business Premium
+772,3119,Business Premium
+773,13597,Business Premium
+774,12187,Business Premium
+775,962,Business Premium
+776,10909,Business Premium
+777,13050,Business Premium
+778,1641,Business Premium
+779,1971,Business Premium
+780,2221,Business Premium
+781,3346,Business Premium
+782,11379,Business Premium
+783,3254,Business Premium
+784,13371,Business Premium
+785,12468,Business Premium
+786,13653,Business Premium
+787,11928,Business Premium
+788,2246,Business Premium
+789,476,Business Premium
+790,520,Business Premium
+791,255,Business Premium
+792,11250,Business Premium
+793,13167,Business Premium
+794,3064,Business Premium
+795,6936,Business Premium
+796,11508,Business Premium
+797,3750,Business Premium
+798,12209,Business Premium
+799,4420,Business Premium
+800,14702,Business Premium
+801,204,Business Premium
+802,14387,Business Premium
+803,1074,Business Premium
+804,2478,Business Premium
+805,12971,Business Premium
+806,9778,Business Premium
+807,2849,Business Premium
+808,11598,Business Premium
+809,6295,Business Premium
+810,398,Business Premium
+811,12110,Business Premium
+812,14428,Business Premium
+813,6605,Business Premium
+814,5428,Business Premium
+815,13859,Business Premium
+816,4679,Business Premium
+817,7233,Business Premium
+818,2330,Business Premium
+819,2712,Business Premium
+820,10293,Business Premium
+821,9585,Business Premium
+822,11196,Business Premium
+823,12210,Business Premium
+824,11261,Business Premium
+825,7635,Business Premium
+826,12725,Business Premium
+827,1669,Business Premium
+828,5364,Business Premium
+829,9604,Business Premium
+830,9932,Business Premium
+831,9593,Business Premium
+832,13482,Business Premium
+833,656,Business Premium
+834,1678,Business Premium
+835,5270,Business Premium
+836,13961,Business Premium
+837,2442,Business Premium
+838,5299,Business Premium
+839,1769,Business Premium
+840,13470,Business Premium
+841,4355,Business Premium
+842,2086,Business Premium
+843,5636,Business Premium
+844,3410,Business Premium
+845,12309,Business Premium
+846,6951,Business Premium
+847,9471,Business Premium
+848,13940,Basic
+849,11692,Basic
+850,5035,Basic
+851,773,Basic
+852,1923,Basic
+853,12851,Basic
+854,2878,Basic
+855,14779,Basic
+856,12783,Basic
+857,4708,Basic
+858,8804,Basic
+859,9446,Basic
+860,10220,Basic
+861,13785,Basic
+862,6968,Basic
+863,13490,Basic
+864,14809,Basic
+865,9505,Basic
+866,4946,Basic
+867,1628,Basic
+868,9256,Basic
+869,1072,Basic
+870,11114,Basic
+871,4538,Basic
+872,14680,Basic
+873,241,Basic
+874,7471,Basic
+875,11855,Basic
+876,4771,Basic
+877,621,Basic
+878,9611,Basic
+879,10981,Basic
+880,10927,Basic
+881,1400,Basic
+882,14621,Basic
+883,12228,Basic
+884,1383,Basic
+885,860,Basic
+886,2602,Basic
+887,2254,Basic
+888,907,Basic
+889,4685,Basic
+890,7940,Basic
+891,935,Basic
+892,10136,Basic
+893,14745,Basic
+894,6169,Basic
+895,4565,Basic
+896,1289,Basic
+897,997,Basic
+898,5273,Basic
+899,14397,Basic
+900,9033,Basic
+901,806,Basic
+902,9781,Basic
+903,1311,Basic
+904,9506,Basic
+905,1110,Basic
+906,4395,Basic
+907,6326,Basic
+908,4462,Basic
+909,13712,Basic
+910,1239,Basic
+911,14763,Basic
+912,1491,Basic
+913,9229,Basic
+914,13514,Basic
+915,8497,Basic
+916,6493,Basic
+917,3797,Basic
+918,12294,Basic
+919,11174,Basic
+920,13301,Basic
+921,356,Basic
+922,11705,Basic
+923,5405,Basic
+924,11211,Basic
+925,9466,Basic
+926,3798,Basic
+927,10198,Basic
+928,5670,Basic
+929,4982,Basic
+930,3565,Basic
+931,13972,Basic
+932,10167,Basic
+933,1123,Basic
+934,166,Basic
+935,5773,Basic
+936,7083,Basic
+937,13767,Basic
+938,4831,Basic
+939,7683,Basic
+940,5582,Basic
+941,4235,Basic
+942,1425,Basic
+943,7228,Basic
+944,7003,Basic
+945,1776,Basic
+946,55,Basic
+947,7535,Basic
+948,1723,Basic
+949,7868,Basic
+950,14844,Basic
+951,9921,Basic
+952,9506,Basic
+953,7424,Basic
+954,6360,Basic
+955,10275,Basic
+956,14974,Basic
+957,2063,Basic
+958,6731,Basic
+959,10114,Basic
+960,1300,Basic
+961,9483,Basic
+962,9259,Basic
+963,10834,Basic
+964,8743,Basic
+965,30,Basic
+966,13977,Basic
+967,12198,Basic
+968,9166,Basic
+969,3542,Basic
+970,7782,Basic
+971,12912,Basic
+972,9714,Basic
+973,8736,Basic
+974,14530,Basic
+975,4818,Basic
+976,10062,Basic
+977,12589,Basic
+978,5356,Basic
+979,5839,Basic
+980,10595,Basic
+981,14841,Basic
+982,10344,Basic
+983,9000,Basic
+984,14684,Basic
+985,6523,Basic
+986,10636,Basic
+987,13419,Basic
+988,12508,Basic
+989,4552,Basic
+990,931,Basic
+991,8533,Basic
+992,14969,Basic
+993,8279,Basic
+994,6232,Basic
+995,14943,Basic
+996,3604,Basic
+997,12748,Basic
+998,686,Basic
+999,8845,Basic
+1000,9706,Basic
+1001,11369,Basic
+1002,9762,Basic
+1003,8501,Basic
+1004,14038,Basic
+1005,6235,Basic
+1006,5471,Basic
+1007,9097,Basic
+1008,7805,Basic
+1009,3677,Basic
+1010,14597,Basic
+1011,8115,Basic
+1012,2741,Basic
+1013,1385,Basic
+1014,14681,Basic
+1015,316,Basic
+1016,6162,Basic
+1017,8819,Basic
+1018,6680,Basic
+1019,1724,Basic
+1020,8753,Basic
+1021,3149,Basic
+1022,11935,Basic
+1023,9003,Basic
+1024,10783,Basic
+1025,8639,Basic
+1026,655,Basic
+1027,833,Basic
+1028,7691,Basic
+1029,8649,Basic
+1030,12896,Basic
+1031,14001,Basic
+1032,11389,Basic
+1033,118,Basic
+1034,2689,Basic
+1035,8206,Basic
+1036,8837,Basic
+1037,10661,Basic
+1038,5509,Basic
+1039,13388,Basic
+1040,12689,Basic
+1041,14834,Basic
+1042,11138,Basic
+1043,407,Basic
+1044,14509,Basic
+1045,4501,Basic
+1046,5730,Basic
+1047,6645,Basic
+1048,13623,Basic
+1049,14023,Basic
+1050,7965,Basic
+1051,14958,Basic
+1052,2873,Basic
+1053,1770,Basic
+1054,10957,Basic
+1055,13507,Basic
+1056,13492,Basic
+1057,6260,Basic
+1058,1295,Basic
+1059,9739,Basic
+1060,700,Basic
+1061,3647,Basic
+1062,5164,Basic
+1063,5968,Basic
+1064,14421,Basic
+1065,5094,Basic
+1066,13689,Basic
+1067,9618,Basic
+1068,13776,Basic
+1069,10772,Basic
+1070,6709,Basic
+1071,13089,Basic
+1072,4888,Basic
+1073,7958,Basic
+1074,12896,Basic
+1075,13542,Basic
+1076,13430,Basic
+1077,9803,Basic
+1078,14384,Basic
+1079,8742,Basic
+1080,14324,Basic
+1081,8875,Basic
+1082,2577,Basic
+1083,1239,Basic
+1084,891,Basic
+1085,3267,Basic
+1086,2180,Basic
+1087,6030,Basic
+1088,11216,Basic
+1089,4879,Basic
+1090,4356,Basic
+1091,7661,Basic
+1092,11941,Basic
+1093,225,Basic
+1094,1863,Basic
+1095,2708,Basic
+1096,9363,Basic
+1097,11514,Basic
+1098,5043,Basic
+1099,2396,Business
+1100,10656,Business
+1101,14445,Business
+1102,13387,Business
+1103,10556,Business
+1104,10630,Business
+1105,9499,Business
+1106,1434,Business
+1107,4350,Business
+1108,4803,Business
+1109,750,Business
+1110,11556,Business
+1111,8980,Business
+1112,5782,Business
+1113,7559,Business
+1114,1832,Business
+1115,12040,Business
+1116,13065,Business
+1117,12192,Business
+1118,4591,Business
+1119,12207,Business
+1120,7635,Business
+1121,436,Business
+1122,1778,Business
+1123,114,Business
+1124,1234,Business
+1125,1387,Business
+1126,3427,Business
+1127,9678,Business
+1128,1557,Business
+1129,8609,Business
+1130,2758,Business
+1131,3289,Business
+1132,12184,Business
+1133,11768,Business
+1134,9641,Business
+1135,85,Business
+1136,10562,Business
+1137,5304,Business
+1138,7377,Business
+1139,689,Business
+1140,2013,Business
+1141,10980,Business
+1142,7877,Business
+1143,6826,Business
+1144,11614,Business
+1145,6350,Business
+1146,11010,Business
+1147,970,Business
+1148,3009,Business
+1149,10508,Business
+1150,1997,Business
+1151,13904,Business
+1152,14112,Business
+1153,5641,Business
+1154,3127,Business
+1155,4416,Business
+1156,7024,Business
+1157,10617,Business
+1158,69,Business
+1159,3335,Business
+1160,10304,Business
+1161,12744,Business
+1162,677,Business
+1163,12099,Business
+1164,8972,Business
+1165,2664,Business
+1166,12445,Business
+1167,6256,Business
+1168,4526,Business
+1169,6140,Business
+1170,4580,Business
+1171,12583,Business
+1172,1864,Business
+1173,13052,Business
+1174,11978,Business
+1175,13164,Business
+1176,4914,Business
+1177,14326,Business
+1178,9205,Business
+1179,5483,Business
+1180,9526,Business
+1181,5430,Business
+1182,4743,Business
+1183,9054,Business
+1184,1543,Business
+1185,14671,Business
+1186,2011,Business
+1187,9297,Business
+1188,6534,Business
+1189,48,Business
+1190,8830,Business
+1191,10324,Business
+1192,13511,Business
+1193,9137,Business
+1194,5725,Business
+1195,4898,Business
+1196,1939,Business
+1197,85,Business
+1198,13641,Business
+1199,8054,Business
+1200,1835,Business
+1201,13955,Business
+1202,13,Business
+1203,1560,Business
+1204,4150,Business
+1205,8857,Business
+1206,300,Business
+1207,4817,Business
+1208,12142,Business
+1209,6060,Business
+1210,14121,Business
+1211,4352,Business
+1212,3131,Business
+1213,7312,Business
+1214,12701,Business
+1215,6906,Business
+1216,14105,Business
+1217,4671,Business
+1218,1028,Business
+1219,11718,Business
+1220,12839,Business
+1221,7974,Business
+1222,13848,Business
+1223,4355,Business
+1224,5968,Business
+1225,2082,Business
+1226,6251,Business
+1227,2590,Business
+1228,8365,Business
+1229,6752,Business
+1230,4918,Business
+1231,1142,Business
+1232,4334,Business
+1233,12778,Business
+1234,11769,Business
+1235,4938,Business
+1236,914,Business
+1237,8312,Business
+1238,7408,Business
+1239,6782,Business
+1240,8219,Business
+1241,13248,Business
+1242,1520,Business
+1243,1665,Business
+1244,7071,Business
+1245,859,Business
+1246,9968,Business
+1247,8129,Business
+1248,345,Business
+1249,8990,Business
+1250,1211,Business
+1251,1143,Business
+1252,10781,Business
+1253,638,Business
+1254,3768,Business
+1255,4995,Business
+1256,6147,Business
+1257,951,Business
+1258,1049,Business
+1259,1904,Business
+1260,7419,Business
+1261,9913,Business
+1262,1670,Business
+1263,14140,Business
+1264,4840,Business
+1265,1684,Business
+1266,9344,Business
+1267,407,Business
+1268,10688,Business
+1269,7069,Business
+1270,7810,Business
+1271,4648,Business
+1272,7145,Business
+1273,3392,Business
+1274,9475,Business
+1275,12932,Business
+1276,6845,Business
+1277,5011,Business
+1278,4881,Business
+1279,4515,Business
+1280,8637,Business
+1281,499,Business
+1282,13447,Business
+1283,8241,Business
+1284,14337,Business
+1285,3332,Business
+1286,11520,Business
+1287,10428,Business
+1288,13675,Business
+1289,2092,Business
+1290,1090,Business
+1291,1763,Business
+1292,1768,Business
+1293,13179,Business
+1294,8956,Business
+1295,7138,Business
+1296,631,Business
+1297,2813,Business
+1298,4661,Business
+1299,12606,Business
+1300,9565,Business
+1301,4674,Business
+1302,8718,Business
+1303,1533,Business
+1304,12369,Business
+1305,2662,Business
+1306,3371,Business
+1307,13810,Business
+1308,12234,Business
+1309,5160,Business
+1310,4185,Business
+1311,6637,Business
+1312,3895,Business
+1313,8679,Business
+1314,452,Business
+1315,6845,Business
+1316,9323,Business
+1317,9329,Business
+1318,12711,Business
+1319,484,Business
+1320,13930,Business
+1321,13251,Business
+1322,9500,Business
+1323,5462,Business
+1324,5316,Business
+1325,5939,Business
+1326,12083,Business
+1327,515,Business
+1328,11696,Business
+1329,13223,Business
+1330,3073,Business
+1331,14808,Business
+1332,1828,Business
+1333,3940,Business
+1334,1286,Business
+1335,1770,Business
+1336,9743,Business
+1337,427,Business
+1338,13751,Business
+1339,8545,Business
+1340,9700,Business
+1341,2842,Business
+1342,3989,Business
+1343,8618,Business
+1344,9449,Business
+1345,1436,Business
+1346,6357,Business
+1347,14494,Business
+1348,13379,Business
+1349,3225,Business
+1350,7763,Business
+1351,9040,Business
+1352,12026,Business
+1353,7165,Business
+1354,435,Business
+1355,9432,Business
+1356,14724,Business
+1357,6317,Business
+1358,12954,Business
+1359,5666,Business
+1360,2148,Business
+1361,10361,Business
+1362,5349,Business
+1363,349,Business
+1364,7321,Business
+1365,14776,Business
+1366,9618,Business
+1367,3607,Business
+1368,8463,Business
+1369,13243,Business
+1370,8411,Business
+1371,6247,Business
+1372,7990,Business
+1373,7823,Business
+1374,159,Business
+1375,2452,Business
+1376,9712,Business
+1377,9324,Business
+1378,3519,Business
+1379,6926,Business
+1380,14737,Business
+1381,12564,Business
+1382,7668,Business
+1383,12867,Business
+1384,8727,Business
+1385,799,Business
+1386,7689,Business
+1387,11837,Business
+1388,5218,Business
+1389,12306,Business
+1390,5314,Business
+1391,10696,Business
+1392,5026,Business
+1393,8563,Business
+1394,12984,Business
+1395,9867,Business
+1396,13936,Business
+1397,7537,Business
+1398,977,Business
+1399,138,Business
+1400,1054,Business
+1401,1175,Business
+1402,1751,Business
+1403,10685,Business
+1404,2088,Business
+1405,1310,Business
+1406,354,Business
+1407,2754,Business
+1408,11984,Business
+1409,402,Business
+1410,4924,Business
+1411,12966,Business
+1412,3645,Business
+1413,6029,Business
+1414,1287,Business
+1415,7203,Business
+1416,4201,Business
+1417,5592,Business
+1418,10131,Business
+1419,11174,Business
+1420,11663,Business
+1421,866,Business
+1422,14194,Business
+1423,9543,Business
+1424,4899,Business
+1425,574,Business
+1426,1261,Business
+1427,2833,Business
+1428,9921,Business
+1429,892,Business
+1430,11123,Business
+1431,10321,Business
+1432,12500,Business
+1433,7973,Business
+1434,9809,Business
+1435,11109,Business
+1436,1550,Business
+1437,12241,Business
+1438,13998,Business
+1439,10495,Business
+1440,3974,Business
+1441,8137,Business
+1442,4652,Business
+1443,7119,Business
+1444,10070,Business
+1445,7422,Business
+1446,12956,Business
+1447,8825,Business
+1448,2192,Business
+1449,14818,Business
+1450,7078,Business
+1451,92,Business
+1452,6187,Business
+1453,11812,Business
+1454,5525,Business
+1455,13990,Business
+1456,14682,Business
+1457,12949,Business
+1458,13550,Business
+1459,6883,Business
+1460,10443,Business
+1461,6362,Business
+1462,6131,Business
+1463,5102,Business
+1464,9942,Business
+1465,2842,Business
+1466,8155,Business
+1467,12941,Business
+1468,2502,Business
+1469,811,Business
+1470,9136,Business
+1471,13095,Business
+1472,8745,Business
+1473,9363,Business
+1474,278,Business
+1475,9015,Business
+1476,9535,Business
+1477,6975,Business
+1478,4079,Business
+1479,6302,Business
+1480,1342,Business
+1481,8648,Business
+1482,7977,Business
+1483,12380,Business
+1484,2600,Business
+1485,14322,Business
+1486,782,Business
+1487,10617,Business
+1488,11886,Business
+1489,6420,Business
+1490,4248,Business
+1491,843,Business
+1492,3251,Business
+1493,13983,Business
+1494,9222,Business
+1495,5496,Business
+1496,9734,Business
+1497,14397,Business
+1498,14524,Business
+1499,9080,Business
+1500,14139,Business
+1501,7355,Business
+1502,4990,Business
+1503,8841,Business
+1504,11196,Business
+1505,7696,Business
+1506,7141,Business
+1507,12956,Business
+1508,4088,Business
+1509,7209,Business
+1510,13465,Business
+1511,511,Business
+1512,4875,Business
+1513,7945,Business
+1514,8458,Business
+1515,13728,Business
+1516,391,Business
+1517,13476,Business
+1518,8623,Business
+1519,2427,Business
+1520,7169,Business
+1521,11289,Business
+1522,14494,Business
+1523,9280,Business
+1524,1334,Business
+1525,9757,Business
+1526,3780,Business
+1527,4180,Business
+1528,4940,Business
+1529,9884,Business
+1530,12386,Business
+1531,13048,Business
+1532,5878,Business
+1533,4443,Business
+1534,14821,Business
+1535,9479,Business
+1536,13965,Business
+1537,1052,Business
+1538,14272,Business
+1539,409,Business
+1540,2793,Business
+1541,3544,Business
+1542,5524,Business
+1543,14789,Business
+1544,1986,Business
+1545,6568,Business
+1546,3722,Business
+1547,10773,Business
+1548,5650,Business
+1549,2316,Business
+1550,10669,Business
+1551,2097,Business
+1552,11989,Business
+1553,11854,Business
+1554,14010,Business
+1555,13632,Business
+1556,183,Business
+1557,233,Business
+1558,12086,Business
+1559,7910,Business
+1560,7269,Business
+1561,6902,Business
+1562,1521,Business
+1563,12698,Business
+1564,14690,Business
+1565,10541,Business
+1566,5581,Business
+1567,8899,Business
+1568,5949,Business
+1569,2451,Business
+1570,9041,Business
+1571,367,Business
+1572,14840,Business
+1573,3227,Business
+1574,2554,Business
+1575,7499,Business
+1576,10771,Business
+1577,14214,Business
+1578,6430,Business
+1579,10107,Business
+1580,1403,Business
+1581,5555,Business
+1582,12871,Business
+1583,5185,Business
+1584,2507,Business
+1585,5656,Business
+1586,1551,Business
+1587,14073,Business
+1588,5724,Business
+1589,13804,Business
+1590,1162,Business
+1591,7286,Business
+1592,10835,Business
+1593,7429,Business
+1594,489,Business
+1595,11266,Business
+1596,11751,Business
+1597,13393,Business
+1598,10416,Business
+1599,11771,Business
+1600,14553,Business
+1601,13954,Business
+1602,893,Business
+1603,243,Business
+1604,3463,Business
+1605,10837,Business
+1606,11836,Business
+1607,14397,Business
+1608,12142,Business
+1609,10190,Business
+1610,13547,Business
+1611,548,Business
+1612,7134,Business
+1613,12138,Business
+1614,14914,Business
+1615,12195,Business
+1616,4299,Business
+1617,10548,Business
+1618,2682,Business
+1619,12389,Business
+1620,10201,Business
+1621,11025,Business
+1622,7142,Business
+1623,11733,Business
+1624,6940,Business
+1625,7802,Business
+1626,9652,Business
+1627,1201,Business
+1628,3469,Business
+1629,2284,Business
+1630,932,Business
+1631,1534,Business
+1632,7043,Business
+1633,6114,Business
+1634,7834,Business
+1635,3950,Business
+1636,2772,Business
+1637,11010,Business
+1638,8105,Business
+1639,8080,Business
+1640,12823,Business
+1641,7923,Business
+1642,13507,Business
+1643,2642,Business
+1644,543,Business
+1645,2703,Business
+1646,12161,Business
+1647,13390,Business
+1648,14595,Business
+1649,13614,Business
+1650,9738,Business
+1651,11031,Business
+1652,10836,Business
+1653,7909,Business
+1654,5292,Business
+1655,14892,Business
+1656,13909,Business
+1657,9914,Business
+1658,4462,Business
+1659,14102,Business
+1660,335,Business
+1661,12802,Business
+1662,2249,Business
+1663,176,Business
+1664,4035,Business
+1665,2344,Business
+1666,13705,Business
+1667,10648,Business
+1668,10465,Business
+1669,2096,Business
+1670,14702,Business
+1671,11234,Business
+1672,8064,Business
+1673,11147,Business
+1674,11106,Business
+1675,1664,Business
+1676,11575,Business
+1677,4966,Business
+1678,14489,Business
+1679,11490,Business
+1680,5520,Business
+1681,5857,Business
+1682,1125,Business
+1683,13948,Business
+1684,104,Business
+1685,4501,Business
+1686,8946,Business
+1687,1717,Business
+1688,14009,Business
+1689,5574,Business
+1690,7430,Business
+1691,2869,Business
+1692,1114,Business
+1693,6415,Business
+1694,6311,Business
+1695,1266,Business
+1696,11475,Business
+1697,2191,Business
+1698,11615,Business
+1699,13346,Business
+1700,10523,Business
+1701,2044,Business
+1702,995,Business
+1703,7310,Business
+1704,7334,Business
+1705,5013,Business
+1706,2861,Business
+1707,12253,Business
+1708,3521,Business
+1709,10693,Business
+1710,2893,Business
+1711,9798,Business
+1712,848,Business
+1713,1378,Business
+1714,5471,Business
+1715,5121,Business
+1716,14446,Business
+1717,8972,Business
+1718,12365,Business
+1719,11590,Business
+1720,11337,Business
+1721,3331,Business
+1722,3898,Business
+1723,12846,Business
+1724,14454,Business
+1725,13622,Business
+1726,5352,Business
+1727,284,Business
+1728,10966,Business
+1729,8872,Business
+1730,13260,Business
+1731,5475,Business
+1732,5696,Business
+1733,4427,Business
+1734,14028,Business
+1735,4762,Business
+1736,690,Business
+1737,6286,Business
+1738,12828,Business
+1739,10676,Business
+1740,6363,Business
+1741,11233,Business
+1742,1752,Business
+1743,11720,Business
+1744,12021,Business
+1745,14854,Business
+1746,14576,Business
+1747,8962,Business
+1748,10651,Business
+1749,2032,Business
+1750,8374,Business
+1751,4460,Business
+1752,8692,Business
+1753,14512,Business
+1754,5327,Business
+1755,8939,Business
+1756,12768,Business
+1757,1321,Business
+1758,3870,Business
+1759,10642,Business
+1760,4867,Business
+1761,8618,Business
+1762,469,Enterprise
+1763,11803,Enterprise
+1764,982,Enterprise
+1765,10309,Enterprise
+1766,304,Enterprise
+1767,9846,Enterprise
+1768,363,Enterprise
+1769,1254,Enterprise
+1770,5680,Enterprise
+1771,6304,Enterprise
+1772,11814,Enterprise
+1773,14967,Enterprise
+1774,14163,Enterprise
+1775,6899,Enterprise
+1776,2035,Enterprise
+1777,9796,Enterprise
+1778,4903,Enterprise
+1779,5505,Enterprise
+1780,6899,Enterprise
+1781,11730,Enterprise
+1782,9244,Enterprise
+1783,664,Enterprise
+1784,525,Enterprise
+1785,13618,Enterprise
+1786,13967,Enterprise
+1787,14568,Enterprise
+1788,243,Enterprise
+1789,7943,Enterprise
+1790,13661,Enterprise
+1791,8268,Enterprise
+1792,12664,Enterprise
+1793,11531,Enterprise
+1794,109,Enterprise
+1795,10050,Enterprise
+1796,12808,Enterprise
+1797,10063,Enterprise
+1798,12464,Enterprise
+1799,10592,Enterprise

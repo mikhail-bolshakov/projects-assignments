@@ -1,0 +1,14 @@
+Job bi_assignment started at 20201115_192328
+Reading columns:  shop_id public_holiday_calendar_id bhshop_id max_days_booking_advance  from shops.csv 
+
+drsmile.shops have been imported 
+
+Reading columns:  public_holiday_calendar_id date holiday_name  from public_holiday_calendar_entry.csv 
+
+drsmile.public_holiday_calendar_entry have been imported 
+
+Reading columns:  bhshop_id monday_from monday_to tuesday_from tuesday_to wednesday_from wednesday_to thursday_from thursday_to friday_from friday_to saturday_from saturday_to sunday_from sunday_to from_date to_date  from bhshop_entry.csv 
+
+drsmile.bhshop_entry have been imported 
+
+Job bi_assignment finished at 20201115_192328

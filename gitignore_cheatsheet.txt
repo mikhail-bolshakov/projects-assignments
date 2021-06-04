@@ -1,0 +1,67 @@
+# In a “.gitignore” file, an asterisk (*) is a wildcard symbol that
+# means zero or more characters — except a slash — can replace the
+# asterisk.
+# below command will ignore any document starting with “abc” located
+# anywhere in this project:
+abc*
+# below command will ignore all “.txt” filetypes located anywhere in
+# this project:
+*.txt
+# In a “.gitignore” file, an exclamation mark (!) means “important”.
+# this command below will track “readme.txt” filetypes, even though
+# you've instructed Git — through the asterisk command above — to
+# ignore all “.txt” files:
+!readme.txt
+# the command below will ignore any “package-lock.json” file located 
+# anywhere in this project:
+package-lock.json
+# below command will ignore only the “passwords.text” file located in
+# the specified directory: 
+directory/of/passwords.text
+# this command will only ignore the “NOTE” file in the current
+# directory — not in any other directory — of this project:
+/NOTE
+# the following command will ignore all the contents inside any folder
+# named “modules”:
+modules/
+# ignore all “.txt” files directly inside the folder named “mix”:
+mix/*.txt
+# Note that the above command will still track all “.txt” files that
+# are in the subdirectories of the “mix” folder. For instance, it
+# will ignore “mix/test.txt” but will track “mix/real/test.txt”.
+# In a “.gitignore” file, double asterisks (**) mark — followed by a
+# slash (e.g., **/) — is a wildcard symbol that means zero or more
+# directories’ names can replace the double asterisks.
+# below command will ignore all “.pdf” files inside both the folder
+# named “doc” and in any of its subdirectories:
+doc/**/*.pdf
+# the question mark (?) in the command below means any single
+# character — except a slash — can replace the question mark:
+sea?.txt
+# Hence, the above command will ignore files like “seas.txt” or
+# “seat.txt”. However, it will not ignore files like “seats.txt”.
+# In a “.gitignore” file, a pair of square brackets “[...]” specifies
+# the range of characters acceptable for a single character position.
+# Below are some examples.
+# this command means the character after character “n” can either be
+# character “s” or character “t”:
+plan[st].js
+# Hence, the above command will match files like “plans.js” or
+# “plant.js”. But it will not match “plane.js” nor “plants”.
+# below command means the character after character “n” can be any
+# character between numbers “3 to 9” inclusive:
+plan[3-9].js
+# Hence, the above command will match files like “plan3.js” or
+# “plan5.js”. But it will not match “plan10.txt” nor “plan1”.
+# the following command means the character after character “n” can
+# be any character between letters “f to z” inclusive:
+plan[f-z].js
+# Hence, the above command will match files like “plank.js” or
+# “plany.js”. But it will not match “plan2.txt” nor “plane”.
+# this command means the character after character “n” cannot be
+# character “s” nor character “t”:
+plan[!st].js
+# Hence, the above command will match files like “plane.js” or
+# “plan2.js”. But it will not match “plans.js” nor “plant”.
+# Note that an exclamation mark within a square bracket “[!]”
+# means “negate”.
